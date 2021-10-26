@@ -1,0 +1,28 @@
+.footer-sec{
+    padding-top: 115px;
+    background: linear-gradient(#1b1b1b,#1f1d1d);
+}
+@media(max-width:991px){
+    .footer-sec{
+        padding: 60px 0px;
+    }
+}
+@media(max-width:991px){
+    .footer-sec .footer-widget{
+        margin-bottom:30px;
+    }
+}
+.footer-sec .footer-widget p{
+    color:#fff;
+}
+.footer-sec .footer-widget h4{
+    font-size: 20px;
+    margin-bottom: 25px;
+    color: #fff;
+
+}
+@media (max-width: 1024px){
+.footer-sec .footer-widget h4{
+    font-size: 20px;
+}
+}
